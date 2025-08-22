@@ -84,11 +84,11 @@ src/
 
 ## 🤝 Contributing
 
-Fork the repo
-Create a feature branch (```git checkout -b feature/your-feature```)
-Commit your changes (```git commit -m "Add feature"```)
-Push to your branch (```git push origin feature/your-feature```)
-Open a Pull Request
+1. Fork the repo
+2. Create a feature branch (```git checkout -b feature/your-feature```)
+3. Commit your changes (```git commit -m "Add feature"```)
+4. Push to your branch (```git push origin feature/your-feature```)
+5. Open a Pull Request
 
 ---
 
